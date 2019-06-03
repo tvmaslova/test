@@ -1,0 +1,36 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1559117579966,1647,yandex.ru,200,Ok,Thread Group 1-1,text,true,,120366,338,7,7,https://yandex.ru/,737,0,306
+1559117580660,1632,yandex.ru,200,Ok,Thread Group 1-6,text,true,,122594,338,7,7,https://yandex.ru/,751,0,236
+1559117580521,1908,yandex.ru,200,Ok,Thread Group 1-5,text,true,,123059,338,7,7,https://yandex.ru/,685,0,291
+1559117580097,2411,yandex.ru,200,Ok,Thread Group 1-2,text,true,,123954,338,7,7,https://yandex.ru/,1066,0,543
+1559117580378,2506,yandex.ru,200,Ok,Thread Group 1-4,text,true,,124392,338,7,7,https://yandex.ru/,1011,0,539
+1559117580806,2267,yandex.ru,200,Ok,Thread Group 1-7,text,true,,123725,338,7,7,https://yandex.ru/,1066,0,575
+1559117580229,3818,yandex.ru,200,Ok,Thread Group 1-3,text,true,,123242,338,7,7,https://yandex.ru/,2191,0,1591
+1559117583778,1092,click a random link,200,OK,Thread Group 1-1,text,true,,47717,1301,7,7,https://yandex.ru/images/?stream_active=category&stream_channel=default&stream_category=film&from_block=video-tabs&from=morda,214,0,174
+1559117583778,214,click a random link-0,302,Found,Thread Group 1-1,text,true,,515,650,7,7,https://yandex.ru/images?stream_active=category&stream_channel=default&stream_category=film&from_block=video-tabs&from=morda,214,0,174
+1559117583993,877,click a random link-1,200,OK,Thread Group 1-1,text,true,,47202,651,7,7,https://yandex.ru/images/?stream_active=category&stream_channel=default&stream_category=film&from_block=video-tabs&from=morda,564,0,0
+1559117577860,2739,script,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,168083,1639,7,7,null,951,4277,480
+1559117584400,1124,click a random link,200,OK,Thread Group 1-6,text,true,,47328,1301,6,6,https://yandex.ru/images/?stream_active=category&stream_channel=default&stream_category=film&from_block=video-tabs&from=morda,234,0,201
+1559117584400,234,click a random link-0,302,Found,Thread Group 1-6,text,true,,515,650,6,6,https://yandex.ru/images?stream_active=category&stream_channel=default&stream_category=film&from_block=video-tabs&from=morda,234,0,201
+1559117584634,890,click a random link-1,200,OK,Thread Group 1-6,text,true,,46813,651,6,6,https://yandex.ru/images/?stream_active=category&stream_channel=default&stream_category=film&from_block=video-tabs&from=morda,466,0,0
+1559117578559,2756,script,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,true,,169922,1639,6,6,null,985,4213,437
+1559117584540,1403,click a random link,200,OK,Thread Group 1-5,text,true,,45080,1199,5,5,https://music.yandex.ru,521,0,453
+1559117584540,521,click a random link-0,302,Found,Thread Group 1-5,,true,,415,649,5,5,https://yandex.ru/music?stream_active=category&stream_channel=default&stream_category=film&from_block=video-tabs&from=morda,521,0,453
+1559117585062,881,click a random link-1,200,OK,Thread Group 1-5,text,true,,44665,550,5,5,https://music.yandex.ru,646,0,169
+1559117578414,3311,script,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,168139,1537,5,5,null,1206,4229,744
+1559117584992,929,click a random link,200,OK,Thread Group 1-4,text,true,,40485,648,5,5,https://yandex.ru/maps?stream_active=category&stream_channel=default&stream_category=film&from_block=video-tabs&from=morda,547,0,457
+1559117578275,3435,script,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,164877,986,5,5,null,1558,4249,996
+1559117584616,1491,click a random link,200,Ok,Thread Group 1-2,text,true,,104289,1877,3,3,https://yandex.ru/portal/video?redircnt=1559117620.1,216,0,180
+1559117584616,216,click a random link-0,302,Found,Thread Group 1-2,text,true,,515,649,3,3,https://yandex.ru/video?stream_active=category&stream_channel=default&stream_category=film&from_block=video-tabs&from=morda,216,0,180
+1559117584833,71,click a random link-1,302,Found,Thread Group 1-2,text,true,,333,650,3,3,https://yandex.ru/video/?stream_active=category&stream_channel=default&stream_category=film&from_block=video-tabs&from=morda,71,0,0
+1559117584904,1203,click a random link-2,200,Ok,Thread Group 1-2,text,true,,103441,578,3,3,https://yandex.ru/portal/video?redircnt=1559117620.1,467,0,0
+1559117577994,3902,script,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,228243,2215,3,3,null,1282,4220,723
+1559117586157,717,click a random link,200,Ok,Thread Group 1-3,text,true,,37199,1197,2,2,https://news.yandex.ru,278,0,236
+1559117586157,278,click a random link-0,302,Moved temporarily,Thread Group 1-3,,true,,251,648,2,2,https://yandex.ru/news?stream_active=category&stream_channel=default&stream_category=film&from_block=video-tabs&from=morda,278,0,236
+1559117586437,437,click a random link-1,200,Ok,Thread Group 1-3,text,true,,36948,549,2,2,https://news.yandex.ru,322,0,148
+1559117578126,4535,script,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,160441,1535,2,2,null,2469,4216,1827
+1559117585188,1774,click a random link,200,Ok,Thread Group 1-7,text,true,,104271,1877,1,1,https://yandex.ru/portal/video?redircnt=1559117621.1,568,0,518
+1559117585188,568,click a random link-0,302,Found,Thread Group 1-7,text,true,,515,649,1,1,https://yandex.ru/video?stream_active=category&stream_channel=default&stream_category=film&from_block=video-tabs&from=morda,568,0,518
+1559117585757,58,click a random link-1,302,Found,Thread Group 1-7,text,true,,333,650,1,1,https://yandex.ru/video/?stream_active=category&stream_channel=default&stream_category=film&from_block=video-tabs&from=morda,58,0,0
+1559117585816,1146,click a random link-2,200,Ok,Thread Group 1-7,text,true,,103423,578,1,1,https://yandex.ru/portal/video?redircnt=1559117621.1,390,0,0
+1559117578703,4041,script,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,,true,,227996,2215,1,1,null,1634,4230,1093
